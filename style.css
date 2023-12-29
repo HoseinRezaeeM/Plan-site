@@ -59,7 +59,7 @@ input:checked + .slider:before {
 }
 @font-face{
   font-family: poppins;
-  src: url(./Poppins-Regular.ttf);
+  src: url(./assets/Poppins-Regular.ttf);
   
 }
 
